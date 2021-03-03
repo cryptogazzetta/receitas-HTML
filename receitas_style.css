@@ -1,0 +1,92 @@
+body {
+			background-color: #ffe285;
+			font-family: Arial, Helvetica, sans-serif;
+			margin: 0; 
+		}
+
+		header {
+			background-color: #695745;
+			margin: 0px 0px 40px;
+			padding: 40px 80px 20px;
+		}
+
+		section {
+			margin: 40px 60px 20px;
+			background-color: #ffeba8;
+			padding: 16px 40px 36px 28px;
+			border-radius: 16px;
+		}
+
+		img.foto {
+			border: 4px solid #695745;
+			border-radius: 8px;
+			float: right;
+			height: 270px;
+			object-fit: contain;
+		}
+
+		h1 {
+			font-size: 48px;
+			color: #ffeba8;
+			text-align: left;
+			margin: 0;
+		}
+
+		h2 {
+			text-align: center;
+			margin-bottom: 40px;
+		}
+
+
+		#menu_principal {
+			margin: 60px;
+			background-color: #ffeaa6;
+			border-radius: 16px;
+			padding: 20px;
+			width: 400px;
+		}
+
+		#menu_principal h2 {
+			margin-bottom: 20px;
+		}
+
+		#menuprincipal ul {
+			list-style: none;
+		}
+
+		#menu_principal a:link, #menu_principal a:visited {
+			text-decoration: none;
+			color: #695745;
+			background-color: #ffe285;
+			border: 2px solid #695745;
+			border-radius: 8px;
+			padding: 4px;
+			margin: 2px;
+			width: 80px;
+		}
+
+		#menu_principal li {
+			list-style: none;
+			margin-bottom: 16px;
+			padding: 4px;
+			margin-bottom: 16px;
+			width: 400px;
+		}
+
+		div.texto_receita {
+			width: 600px;
+			display: block;
+		}
+
+		footer {
+			margin-top: 40px;
+			height: 40px;
+			width: 100%;
+			background-color: #695745;
+			padding: 20px 0 12px;
+			color: #ffeba8;
+		}
+
+		footer p {
+			margin-left: 20px;
+		}
